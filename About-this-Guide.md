@@ -11,6 +11,8 @@ The content in this guide is appropriate for use by (but not strictly limited to
 - xxx
 - xxx
 
+
+<br />
 Use the following activities to xxx:
 
 1. [Cloud Migration Strategy](https://github.com/alvarovitta/Workload-Migration/blob/master/1.0-Cloud%20Migration%20Strategy%20.md): Use the information in this section as a starting point to help you xxx.
@@ -23,7 +25,8 @@ Use the following activities to xxx:
 
 5. [Post-migration Activities](https://github.com/alvarovitta/Workload-Migration/blob/master/5.0-Post-migration-Activities.md): Use the guidance and procedures described in this section to xxx.
 
-
+<br />
+<br />
 
 ## Next steps
 
