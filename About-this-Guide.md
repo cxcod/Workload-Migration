@@ -4,12 +4,12 @@ Use this guide to xxx
 
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
 
-xxx
-xxx
-xxx
-xxx
-xxx
-xxx
+- xxx
+- xxx
+- xxx
+- xxx
+- xxx
+- xxx
 
 Use the following activities to xxx:
 
