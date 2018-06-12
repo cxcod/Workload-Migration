@@ -1,6 +1,6 @@
 # About this Guide
 
-Use this guide to xxx
+Use this guide to migrate your workloads to Azure.
 
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
 
@@ -13,7 +13,7 @@ The content in this guide is appropriate for use by (but not strictly limited to
 
 
 <br />
-Use the following activities to xxx:
+Use the following sections to plan and implement your Azure Workload migrations:
 
 1. [Cloud Migration Strategy](https://github.com/alvarovitta/Workload-Migration/blob/master/1.0-Cloud%20Migration%20Strategy%20.md): Use the information in this section as a starting point to help you xxx.
 
