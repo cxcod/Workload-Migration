@@ -1,5 +1,8 @@
 # About this Guide
 
+If you want to just migrate a data center to the cloud, then go straight to the technical migration
+If you want to prioritize workloads and determine which applications should move first, then do a business assessment and portfolio analysis to determine the prioritization (reword)
+
 Use this guide to migrate your workloads to Azure.
 
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
